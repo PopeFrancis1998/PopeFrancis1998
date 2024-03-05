@@ -2,9 +2,6 @@
 - 👀 I’m interested in girls
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me prayers
-- 😄 Pronouns: master
-- ⚡ Fun fact: tall dark and nervermind
 
 <!---
 PopeFrancis1998/PopeFrancis1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
